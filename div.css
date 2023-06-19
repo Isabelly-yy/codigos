@@ -1,0 +1,32 @@
+.bg-light{
+    background-color: rgb(4, 131, 88) !important;
+   }
+   body{
+       background-color: rgb(233, 233, 233);
+       font-size: medium;
+   }
+   .d-inline-block{
+       width:"30" ;
+       height:"30";
+   }
+   span.p1selet{
+      color: white;
+   }
+   form{
+       background-color: rgb(245, 245, 245);
+       border: solid 0 black;
+       padding: 2%;
+       margin: 2% 30% 2% 30% ;
+       border-radius: 5px;
+       box-shadow: 2px 5px 5px 2px rgb(155, 155, 155);
+       font-size: small
+   }
+   h3{
+       color: rgb(0, 141, 94);
+   }
+   hr{
+      background-color: black;
+   }
+   .btn{
+       background-color:rgb(4, 131, 88) ;
+   }
